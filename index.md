@@ -34,7 +34,9 @@ _**[Some personal project](/pdf/HSURV21_PerspectiveRenewed.pdf)**_
 
 ## Career Objectives
 
-I am starting a side project building my first website and practicing code. The website is focused on using HTML to design an open platform blog that will allow myself and others to make blog entries. Blog's are pretty cool! Blogs take up a huge component of the internet and people can use them for a myriad of purposes: Posting product reviews, content recommendations, creative writing, personal ideas, etc. However, traffic to blogs is not as highly represented as the amount that are on the web. They are "overproduced" and under utilized. The goal of this side project is to discover ways to increase interaction amongst bloggers creating a growing community of users and a new space to facilitate more eyes on people's blogs. 
+I am starting a side project building my first website and practicing code. The website is focused on using HTML to design an open platform blog that will allow myself and others to make blog entries. Blog's are pretty cool! Blogs take up a huge component of the internet and people can use them for a myriad of purposes: Posting product reviews, content recommendations, creative writing, personal ideas, etc. 
+
+However, traffic to blogs is not as highly represented as the amount that are on the web. They are "overproduced" and under utilized. The goal of this side project is to discover ways to increase interaction amongst bloggers creating a growing community of users and a new space to facilitate more eyes on people's blogs. 
 
 Link: *In Progress*
 ---
