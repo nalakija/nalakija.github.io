@@ -1,5 +1,5 @@
 title: Nathan Alakija # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
 
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://www.linkedin.com/in/nathanalakija/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="/pdf/Nathan_Alakija_Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
