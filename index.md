@@ -25,9 +25,8 @@ _**[Placeholder for Eventual team project](https://donbowen.github.io/teamprojec
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
---- https://d67c1945-9bbb-4ded-a527-fe7384b2663e.filesusr.com/ugd/8d0779_eea4185bd4e849438c28a59c7837e3a4.pdf
 
-_**[Some personal project](/pdf/(https://d67c1945-9bbb-4ded-a527-fe7384b2663e.filesusr.com/ugd/8d0779_eea4185bd4e849438c28a59c7837e3a4.pdf))**_
+_**[Some personal project](/pdf/HSURV21_PerspectiveRenewed.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
