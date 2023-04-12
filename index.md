@@ -1,14 +1,8 @@
 ## About Me
 
-What's up? hey\|you
+I'm a student at Lehigh  ...
 
-I am an awesome student at Lehigh, you should hire me!
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
@@ -24,15 +18,7 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Placeholder for Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
