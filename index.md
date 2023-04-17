@@ -26,7 +26,7 @@ _**[Placeholder for Eventual team project](https://donbowen.github.io/teamprojec
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-_**[Some personal project](/pdf/HSURV21_PerspectiveRenewed.pdf)**_
+_**[Perspective Renewed: A Creative Endeavour](/pdf/HSURV21_PerspectiveRenewed.pdf)**_
 
 <img src="images/PerspectiveRenewed.png?raw=true"/>
 
