@@ -13,11 +13,11 @@ Upcoming Career Position: Bloomberg, Oakland CA
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](MidTermSummary)**_
+_**[Nathan's Midterm Summary A Snippet of Output ](MidTermSummary)**_
 
-Nathan's Midterm Summary Captured
+Nathan's Midterm Summary A Snippet of Output 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/midtermsnippet.jpg?raw=true"/>
 
 ---
 
@@ -28,7 +28,7 @@ _**[Placeholder for Eventual team project](https://donbowen.github.io/teamprojec
 
 _**[Some personal project](/pdf/HSURV21_PerspectiveRenewed.pdf)**_
 
-<img src="png/PerspectiveRenewed.png?raw=true"/>
+<img src="images/PerspectiveRenewed.png?raw=true"/>
 
 ---
 
